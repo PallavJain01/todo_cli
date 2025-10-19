@@ -5,14 +5,8 @@
   "todos": [
     {
       "ID": 1,
-      "title": "Finish the project",
-      "description": "Finish the project fully, and implement todos list command",
-      "finished": false
-    },
-    {
-      "ID": 3,
-      "title": "Test Title",
-      "description": "Some provided description",
+      "title": "Example Todo title",
+      "description": "Some nice description of the todo",
       "finished": false
     }
   ]
