@@ -1,0 +1,19 @@
+{
+  "todos_count": 1,
+  "todos_per_page": 8,
+  "show_description": true,
+  "todos": [
+    {
+      "ID": 1,
+      "title": "Finish the project",
+      "description": "Finish the project fully, and implement todos list command",
+      "finished": false
+    },
+    {
+      "ID": 3,
+      "title": "Test Title",
+      "description": "Some provided description",
+      "finished": false
+    }
+  ]
+}
